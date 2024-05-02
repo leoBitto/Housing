@@ -3,6 +3,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Housing - docs
-description: A ready to deploy Data science project
+description: Predict house prices with ML
 logo: "./assets/img/logoForge.png"
 favicon: "./assets/img/logoForge.svg"
