@@ -5,4 +5,4 @@ plugins:
 title: Housing - docs
 description: Predict house prices with ML
 logo: "./assets/img/logoForge.png"
-favicon: "./assets/img/logoForge.svg"
+favicon: "./assets/img/logoHousing.svg"
